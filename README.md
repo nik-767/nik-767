@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Full-Stack Web Development projects with Django & React<br><br>👯 I’m looking to collaborate on Open Source and Web Development projects<br><br>🤝 I’m looking for help with scaling applications and backend architecture<br><br>🌱 I’m currently learning Django REST Framework, PostgreSQL, React, <br><br>💬 Ask me about Python, Django, Flask, Git, GitHub, and Open Source<br>
 
+https://profile-readme-generator.com/assets/snake.svg
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-kalra-343t) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@nikhilkalra124421) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilkalra124421@gmail.com) 
