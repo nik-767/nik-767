@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Web Development projects with Django & React<br><br>👯 I’m looking to collaborate on Open Source and Web Development projects of Ai related<br><br>🤝 I’m looking for help with scaling applications and backend architecture<br><br>🌱 I’m currently learning Django REST Framework, PostgreSQL, React, <br><br>💬 Ask me about Python, Django, Flask, RestApi Git, GitHub, and Open Source<br>
+🔭 I’m currently working on Full-Stack Web Development projects with Django & React<br><br>👯 I’m looking to collaborate on Open Source and Web Development projects of Ai related<br><br>🤝 I’m looking for help with scaling applications and backend architecture<br><br>🌱 I’m currently learning Django REST Framework, PostgreSQL, React, <br><br>💬 Ask me about Python, Django, Flask, RestApi Git, GitHub, and Open Source<br> ...
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
